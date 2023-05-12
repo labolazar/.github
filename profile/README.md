@@ -1,4 +1,4 @@
-# Welcome to the Lazar Lab's Github. 
+# Welcome to the Lazar Lab's Github
 
 Through microbial ecology research projects carried out in the Lazar lab, we seek to understand how microbial communities are influenced 
 by their abiotic environment, how these communities influence their abiotic environment, and how these populations interact with each other. 
